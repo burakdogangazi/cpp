@@ -1,0 +1,5 @@
+# ninja log v6
+3	8	7440634983047127	clean	657297461e4d84f3
+364	465	7440649368250975	ClionProjects.exe	bef132ff665ddfde
+2	224	7440667986588127	build.ninja	93defcf64850f5de
+4	363	7440649364654363	CMakeFiles/ClionProjects.dir/FirstProgram.cpp.obj	a4a093e222057f22
